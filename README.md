@@ -1,0 +1,2 @@
+# cloudflareST
+结合cmliu的cloudflareSTplus，diy自己的优选ip，可以自动化同步到github
